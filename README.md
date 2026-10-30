@@ -1,5 +1,9 @@
 # nofx-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nofx-or-just-updated-ai-trading-platform?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [NOFX template](https://railway.com/deploy/nofx-or-just-updated-ai-trading-platform?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 NOFX (open-source AI trading platform) packaged for Railway as a single container.
 
 Upstream: [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx). This repo builds
